@@ -77,50 +77,24 @@ span.flex {
 	margin-left:0.5%;
 }
 
- .MainBody img {
+ .Mainody img {
 	display:block;
 	max-height:240px;
 }
 
- hr.second {
-	margin: 0px;
-	width:38%;
+ .MainBod img {
+	display:block;
+	max-height:240px;
+}
+ .MainBy img {
+	display:block;
+	max-height:240px;
+}
+ .MainBdy img {
+	display:block;
+	max-height:240px;
 }
 
- .Article {
-	margin-left: 35px;
-}
-
- .Article p {
-	display: inline-block;
-	color: white;
-}
-
- .Experience {
-	margin-left: 35px;
-	display: flex;
-}
-
- .Experience ol {
-	list-style-type: disc;
-	float:left;
-	color: orange;
-}
-
- .Experience li {
-	flex-direction: column;
-}
-
- .Experience a {
-	float: left;
-        color: #F9D300;
-        text-decoration: none;
-	white-space: nowrap;
-}
-
- .Experience a:hover {
-	color: #F95700FF;
-}
 
 @media only screen and (max-width: 1024px) {
 	img {
