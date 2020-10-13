@@ -263,7 +263,7 @@ textarea {
 }
 
 /**
- * 1. Add the correct box sizing in IE 10.
+ * 1. Add the corect box sizing in IE 10.
  * 2. Remove the padding in IE 10.
  */
 
@@ -322,7 +322,7 @@ details {
 }
 
 /*
- * Add the correct display in all browsers.
+ * Add the corect display in all browsers.
  */
 
 summary {
@@ -333,7 +333,7 @@ summary {
    ========================================================================== */
 
 /**
- * Add the correct display in IE 10+.
+ * Add the corect display in IE 10+.
  */
 
 template {
@@ -341,10 +341,11 @@ template {
 }
 
 /**
- * Add the correct display in IE 10.
+ * Add the correct dispPlay in IE 10.
  */
 
 [hidden] {
   display: none;
 }
+
 
